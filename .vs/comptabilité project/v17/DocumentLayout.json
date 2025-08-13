@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\editsocieteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:editsocieteform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\listesocietesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:listesocietesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\create_recette_finance_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:create_recette_finance_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\teleliquidationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:teleliquidationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\editpersonneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:editpersonneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\editpersonneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:editpersonneform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\editpersonneform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:editpersonneform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\teledeclarationpersonnesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:teledeclarationpersonnesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\listepersonnesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:listepersonnesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\create_teledeclaration_personnes_table.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:create_teledeclaration_personnes_table.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\create_personnes_table.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:create_personnes_table.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\add_login_password_columns.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:add_login_password_columns.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\add_activity_fields.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:add_activity_fields.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\add_type_tableau_column.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:add_type_tableau_column.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\societedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:societedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\societedetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:societedetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|c:\\users\\pc\\desktop\\ghoufa\\comptabilit\u00E9 project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B797F0-15B6-4CD4-8BF4-8747ED6D675F}|comptabilit\u00E9 project.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-13T19:57:12.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditSocieteForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditSocieteForm.Designer.cs",
+              "RelativeDocumentMoniker": "EditSocieteForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditSocieteForm.Designer.cs",
+              "RelativeToolTip": "EditSocieteForm.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAiwPIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:23:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "create_recette_finance_tables.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_recette_finance_tables.sql",
+              "RelativeDocumentMoniker": "create_recette_finance_tables.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_recette_finance_tables.sql",
+              "RelativeToolTip": "create_recette_finance_tables.sql",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-13T19:21:01.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeleliquidationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\TeleliquidationForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeleliquidationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\TeleliquidationForm.Designer.cs",
+              "RelativeToolTip": "TeleliquidationForm.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwv7oAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T14:50:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditPersonneForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.cs",
+              "RelativeDocumentMoniker": "EditPersonneForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.cs",
+              "RelativeToolTip": "EditPersonneForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:17:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditPersonneForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.Designer.cs",
+              "RelativeDocumentMoniker": "EditPersonneForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.Designer.cs",
+              "RelativeToolTip": "EditPersonneForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:16:38.866Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeSocietesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\ListeSocietesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ListeSocietesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\ListeSocietesForm.Designer.cs",
+              "RelativeToolTip": "ListeSocietesForm.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwK4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T19:22:57.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeledeclarationPersonnesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\TeledeclarationPersonnesForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeledeclarationPersonnesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\TeledeclarationPersonnesForm.Designer.cs",
+              "RelativeToolTip": "TeledeclarationPersonnesForm.Designer.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAKIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:39:32.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListePersonnesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\ListePersonnesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ListePersonnesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\ListePersonnesForm.Designer.cs",
+              "RelativeToolTip": "ListePersonnesForm.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwKYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:38:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create_teledeclaration_personnes_table.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_teledeclaration_personnes_table.sql",
+              "RelativeDocumentMoniker": "create_teledeclaration_personnes_table.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_teledeclaration_personnes_table.sql",
+              "RelativeToolTip": "create_teledeclaration_personnes_table.sql",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-07T16:37:00.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "create_personnes_table.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_personnes_table.sql",
+              "RelativeDocumentMoniker": "create_personnes_table.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\create_personnes_table.sql",
+              "RelativeToolTip": "create_personnes_table.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-07T16:36:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "add_login_password_columns.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_login_password_columns.sql",
+              "RelativeDocumentMoniker": "add_login_password_columns.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_login_password_columns.sql",
+              "RelativeToolTip": "add_login_password_columns.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-07T16:36:25.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "add_activity_fields.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_activity_fields.sql",
+              "RelativeDocumentMoniker": "add_activity_fields.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_activity_fields.sql",
+              "RelativeToolTip": "add_activity_fields.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-07T13:20:59.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "add_type_tableau_column.sql",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_type_tableau_column.sql",
+              "RelativeDocumentMoniker": "add_type_tableau_column.sql",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\add_type_tableau_column.sql",
+              "RelativeToolTip": "add_type_tableau_column.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-03T20:18:04.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SocieteDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\SocieteDetailForm.cs",
+              "RelativeDocumentMoniker": "SocieteDetailForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\SocieteDetailForm.cs",
+              "RelativeToolTip": "SocieteDetailForm.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwPAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:42:45.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:35:27.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SocieteDetailForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\SocieteDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "SocieteDetailForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\SocieteDetailForm.Designer.cs",
+              "RelativeToolTip": "SocieteDetailForm.Designer.cs",
+              "ViewState": "AgIAAA8CAAAAAAAAAAAmwCECAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:42:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:35:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAAKIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:38:51.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAiwDoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:38:47.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditPersonneForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.cs",
+              "RelativeDocumentMoniker": "EditPersonneForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\EditPersonneForm.cs [Design]",
+              "RelativeToolTip": "EditPersonneForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:16:19.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Ghoufa\\comptabilit\u00E9 project\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:36:42.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
